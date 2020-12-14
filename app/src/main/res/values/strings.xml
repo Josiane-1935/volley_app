@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Volley_App</string>
+    <string name="username_text">UserName</string>
+    <string name="image_text">Share</string>
+    <string name="url">http://url.com</string>
+    <string name="profile_text">Profile</string>
+
+</resources>
